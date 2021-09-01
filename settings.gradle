@@ -1,2 +1,2 @@
-rootProject.name = "MyTranslatorL1"
+rootProject.name = "MyTranslatorL2"
 include ':app'
